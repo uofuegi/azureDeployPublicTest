@@ -1,2 +1,2 @@
 # azureDeployPublicTest
-Trying this on a public repo
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
