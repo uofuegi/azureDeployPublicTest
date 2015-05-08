@@ -4,14 +4,13 @@
     "parameters": {
         "newStorageAccountName": {
             "type": "string",
-            "defaultValue": "deleteMe",
+            "defaultValue": "deleteme",
             "metadata": {
                 "description": "Unique DNS Name for the Storage Account where the Virtual Machine's disks will be placed."
             }
         },
         "adminUsername": {
             "type": "string",
-            "defaultValue": "egiadmin",
             "metadata": {
                "description": "Username for the Virtual Machine."
             }
@@ -24,7 +23,7 @@
         },
         "dnsNameForPublicIP": {
             "type": "string",
-            "defaultValue": "deleteMeIcordsTestVM",
+            "defaultValue": "delete-me-icords-test-vm",
             "metadata": {
                   "description": "Unique DNS Name for the Public IP used to access the Virtual Machine."
             }
